@@ -10,4 +10,4 @@
 
 # Configuration
 
-Download,extract and import the file **france_cities_db.sql** in your database
+Download,extract and import the file **france_cities_db.sql** in your database.
